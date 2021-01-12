@@ -1,0 +1,13 @@
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.csprojAssemblyReference.cache
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.AssemblyInfoInputs.cache
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.AssemblyInfo.cs
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.csproj.CoreCompileInputs.cache
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.exe
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.deps.json
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.runtimeconfig.json
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.runtimeconfig.dev.json
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.dll
+S:\stuff\RedGate\RedGate\RedGate\bin\Debug\netcoreapp3.1\RedGate.pdb
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.dll
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.pdb
+S:\stuff\RedGate\RedGate\RedGate\obj\Debug\netcoreapp3.1\RedGate.genruntimeconfig.cache
